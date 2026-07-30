@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # TrustAI – AI Trust Score Engine
 
 TrustAI is a beginner-friendly hackathon project that evaluates the trustworthiness of text by extracting claims, verifying them with AI using Ollama, detecting hallucination risk, and generating a trust score.
@@ -41,3 +42,7 @@ TrustAI is a beginner-friendly hackathon project that evaluates the trustworthin
 
 - The backend uses mocked AI logic and rule-based heuristics so it can run without external AI APIs.
 - Use the frontend textarea to paste text, then click "Analyze" to see the trust score, verdict, and hallucination risk.
+=======
+# TrustAI
+TrustAI is an intelligent AI evaluation platform designed to measure the trustworthiness of AI-generated outputs. It analyzes text responses, detects possible hallucinations, checks factual consistency, evaluates confidence levels, and generates an explainable trust score to help users understand when AI responses can be trusted.
+>>>>>>> 5133cd77083e77d4206ec2fed0f2073ee53aabf3
